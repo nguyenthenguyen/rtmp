@@ -3,7 +3,7 @@ package cmd
 import (
 	"testing"
 
-	"github.com/WatchBeam/rtmp/chunk"
+	"github.com/nguyenthenguyen/rtmp/chunk"
 	"github.com/stretchr/testify/assert"
 )
 

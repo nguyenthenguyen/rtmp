@@ -5,7 +5,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/WatchBeam/rtmp/chunk"
+	"github.com/nguyenthenguyen/rtmp/chunk"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

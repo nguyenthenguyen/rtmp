@@ -3,7 +3,7 @@ package handshake_test
 import (
 	"io"
 
-	"github.com/WatchBeam/rtmp/handshake"
+	"github.com/nguyenthenguyen/rtmp/handshake"
 	"github.com/stretchr/testify/mock"
 )
 

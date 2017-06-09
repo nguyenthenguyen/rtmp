@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/WatchBeam/rtmp/client"
+	"github.com/nguyenthenguyen/rtmp/client"
 	"github.com/stretchr/testify/assert"
 )
 

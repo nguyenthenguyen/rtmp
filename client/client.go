@@ -3,14 +3,14 @@ package client
 import (
 	"io"
 
-	"github.com/WatchBeam/rtmp/chunk"
-	"github.com/WatchBeam/rtmp/cmd"
-	"github.com/WatchBeam/rtmp/control"
-	"github.com/WatchBeam/rtmp/handshake"
+	"github.com/nguyenthenguyen/rtmp/chunk"
+	"github.com/nguyenthenguyen/rtmp/cmd"
+	"github.com/nguyenthenguyen/rtmp/control"
+	"github.com/nguyenthenguyen/rtmp/handshake"
 )
 
 // Client represents a client connected to a RTMP server (see
-// github.com/WatchBeam/rtmp/server for more). Clients are able to be written to
+// github.com/nguyenthenguyen/rtmp/server for more). Clients are able to be written to
 // and read from, and may have additional metadata attached to them in the
 // future.
 type Client struct {
@@ -58,7 +58,7 @@ func New(conn io.ReadWriter) *Client {
 // If no error is encounterd while handshaking, the chunk reading process will
 // begin.
 //
-// See github.com/WatchBeam/RTMP/handshake for details.
+// See github.com/nguyenthenguyen/RTMP/handshake for details.
 func (c *Client) Handshake() error {
 	if err := handshake.With(&handshake.Param{
 		Conn: c.Conn,

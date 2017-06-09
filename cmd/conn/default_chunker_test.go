@@ -3,8 +3,8 @@ package conn_test
 import (
 	"testing"
 
-	"github.com/WatchBeam/amf0"
-	"github.com/WatchBeam/rtmp/cmd/conn"
+	"github.com/nguyenthenguyen/amf0"
+	"github.com/nguyenthenguyen/rtmp/cmd/conn"
 	"github.com/stretchr/testify/assert"
 )
 

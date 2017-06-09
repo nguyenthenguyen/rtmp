@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/WatchBeam/amf0/encoding"
+	"github.com/nguyenthenguyen/amf0/encoding"
 )
 
 var (

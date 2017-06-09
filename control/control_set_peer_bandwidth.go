@@ -3,7 +3,7 @@ package control
 import (
 	"io"
 
-	"github.com/WatchBeam/rtmp/spec"
+	"github.com/nguyenthenguyen/rtmp/spec"
 )
 
 type LimitType byte

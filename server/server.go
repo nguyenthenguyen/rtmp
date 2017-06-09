@@ -3,7 +3,7 @@ package server
 import (
 	"net"
 
-	"github.com/WatchBeam/rtmp/client"
+	"github.com/nguyenthenguyen/rtmp/client"
 )
 
 // A Server represents a TCP server capable of accepting connections, and

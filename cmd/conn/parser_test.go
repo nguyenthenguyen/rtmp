@@ -3,7 +3,7 @@ package conn
 import (
 	"io"
 
-	"github.com/WatchBeam/amf0"
+	"github.com/nguyenthenguyen/amf0"
 	"github.com/stretchr/testify/mock"
 )
 
