@@ -3,7 +3,7 @@ package conn
 import (
 	"io"
 
-	"github.com/nguyenthenguyen/amf0"
+	"github.com/mixer/amf0"
 	"github.com/stretchr/testify/mock"
 )
 

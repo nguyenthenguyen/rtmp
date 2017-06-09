@@ -3,7 +3,7 @@ package conn_test
 import (
 	"testing"
 
-	"github.com/nguyenthenguyen/amf0"
+	"github.com/mixer/amf0"
 	"github.com/nguyenthenguyen/rtmp/cmd/conn"
 	"github.com/stretchr/testify/assert"
 )

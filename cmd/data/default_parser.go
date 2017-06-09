@@ -3,7 +3,7 @@ package data
 import (
 	"fmt"
 
-	"github.com/nguyenthenguyen/amf0"
+	"github.com/mixer/amf0"
 	"github.com/nguyenthenguyen/rtmp/chunk"
 )
 

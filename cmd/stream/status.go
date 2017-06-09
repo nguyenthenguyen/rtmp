@@ -1,8 +1,8 @@
 package stream
 
 import (
-	"github.com/nguyenthenguyen/amf0"
-	"github.com/nguyenthenguyen/amf0/encoding"
+	"github.com/mixer/amf0"
+	"github.com/mixer/amf0/encoding"
 	"github.com/nguyenthenguyen/rtmp/chunk"
 )
 

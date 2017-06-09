@@ -5,7 +5,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/nguyenthenguyen/amf0/encoding"
+	"github.com/mixer/amf0/encoding"
 	"github.com/nguyenthenguyen/rtmp/cmd/stream"
 	"github.com/stretchr/testify/assert"
 )

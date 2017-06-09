@@ -5,7 +5,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/nguyenthenguyen/amf0"
+	"github.com/mixer/amf0"
 	"github.com/nguyenthenguyen/rtmp/chunk"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"

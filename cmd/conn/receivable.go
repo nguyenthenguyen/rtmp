@@ -1,6 +1,6 @@
 package conn
 
-import "github.com/nguyenthenguyen/amf0"
+import "github.com/mixer/amf0"
 
 // Type Receviable is used to tag certain Commands as being able to be received.
 type Receivable interface {

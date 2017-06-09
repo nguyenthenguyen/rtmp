@@ -1,6 +1,6 @@
 package stream
 
-import "github.com/nguyenthenguyen/amf0"
+import "github.com/mixer/amf0"
 
 type (
 	CommandPlay struct {

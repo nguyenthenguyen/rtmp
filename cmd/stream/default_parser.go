@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/nguyenthenguyen/amf0/encoding"
+	"github.com/mixer/amf0/encoding"
 )
 
 var (

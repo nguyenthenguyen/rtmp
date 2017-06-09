@@ -3,7 +3,7 @@ package conn
 import (
 	"io"
 
-	"github.com/nguyenthenguyen/amf0"
+	"github.com/mixer/amf0"
 )
 
 // Parser is a functional interface responsible for parsing a body of data out
